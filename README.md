@@ -1,7 +1,3 @@
-# spongebob-cli
-Watch classic spongebob from the terminal!
-
-![2023-01-27 23-06-12](https://user-images.githubusercontent.com/81049050/215214086-d0cd04af-7fdf-4748-9220-0da4eb5ca5c0.gif)
 
 ## Usage
 ```
