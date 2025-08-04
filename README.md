@@ -1,7 +1,7 @@
 
 ## Usage
 ```
- usage: spongebob-cli [-h] [-p PLAY] [-l] [-r] [-d DOWNLOAD] [-da] [-b] [-vp VIDEO_PLAYER] [-vd VIDEO_DOWNLOADER]
+ usage: ben10-cli [-h] [-p PLAY] [-l] [-r] [-d DOWNLOAD] [-da] [-b] [-vp VIDEO_PLAYER] [-vd VIDEO_DOWNLOADER]
 
 Watch classic spongebob from the terminal!
 
@@ -40,16 +40,13 @@ sudo python setup.py install
 
 One line: 
 ```bash
-git clone https://github.com/trakBan/spongebob-cli.git && cd spongebob-cli && chmod +x spongebob-cli && sudo python setup.py install
+git clone https://github.com/ZULBONKS/ben10-cli.git && cd ben10-cli && chmod +x ben10-cli && sudo python setup.py install
 ```
 
 #### Uninstall
 Run ```uninstall.sh``` as root
 
-### Rewrite in rust!
- [Ali-TM-original ](https://github.com/Ali-TM-original) Made [spongebob-cli in rust](https://github.com/Ali-TM-original/SpongbobCli-Rust)
- 
-## Contributors
+Forked from Spongebob-cli.
 <div align="center">
 	<a href="https://github.com/trakBan/spongebob-cli/graphs/contributors">
   	<img src="https://contrib.rocks/image?repo=trakBan/spongebob-cli" />
