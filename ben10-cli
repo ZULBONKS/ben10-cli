@@ -91,7 +91,7 @@ def parseArgs():
     # Parsing arguments
 
     parser = argparse.ArgumentParser(
-        prog="spongebob-cli",
+        prog="ben10-cli",
         description="Watch classic spongebob from the terminal!",
     )
 
