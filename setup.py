@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="spongebob-cli",
-    version="2.00",
+    name="ben10-cli",
+    version="1.00",
 
     install_requires=[
         "prettytable",
@@ -12,6 +12,6 @@ setup(
         ],
 
     scripts=[
-        "spongebob-cli",
+        "ben10-cli",
     ]
 )
