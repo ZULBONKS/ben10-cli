@@ -182,7 +182,7 @@ def main(args) -> None:
 if __name__ == "__main__":
     links: list[str] = []
     for num in range(1, 17):
-        links.append(f"https://www.megacartoons.net/video-serie/spongebob-squarepants/page/{num}/")
+        links.append(f"https://www.megacartoons.net/video-serie/ben-10/page/{num}/")
 
     args = parseArgs()
     main(args)
