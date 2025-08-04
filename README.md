@@ -42,13 +42,3 @@ One line:
 ```bash
 git clone https://github.com/ZULBONKS/ben10-cli.git && cd ben10-cli && chmod +x ben10-cli && sudo python setup.py install
 ```
-
-#### Uninstall
-Run ```uninstall.sh``` as root
-
-Forked from Spongebob-cli.
-<div align="center">
-	<a href="https://github.com/trakBan/spongebob-cli/graphs/contributors">
-  	<img src="https://contrib.rocks/image?repo=trakBan/spongebob-cli" />
-	</a>
-</div>
