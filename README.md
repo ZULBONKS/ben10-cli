@@ -1,9 +1,8 @@
+### Forked from https://github.com/trakBan/spongebob-cli
 
 ## Usage
 ```
  usage: ben10-cli [-h] [-p PLAY] [-l] [-r] [-d DOWNLOAD] [-da] [-b] [-vp VIDEO_PLAYER] [-vd VIDEO_DOWNLOADER]
-
-Watch classic spongebob from the terminal!
 
 options:
   -h, --help            show this help message and exit
@@ -31,10 +30,10 @@ Checkout the source code with `git` or download it as a .zip file.
 ```bash
 
 # Root is only required for the last line
-git clone https://github.com/trakBan/spongebob-cli.git
+git clone https://github.com/ZULBONKS/ben10-cli.git
 
-cd spongebob-cli
-chmod +x spongebob-cli
+cd ben10-cli
+chmod +x ben10-cli
 sudo python setup.py install
 ```
 
