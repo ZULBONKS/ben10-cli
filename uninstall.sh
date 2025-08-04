@@ -5,6 +5,6 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 # Deletes spongebob-cli executable
-rm /usr/bin/spongebob-cli || rm /usr/local/bin/spongebob-cli 
+rm /usr/bin/ben10-cli || rm /usr/local/bin/ben10-cli
 
 echo "spongebob-cli has been sucesfully uninstalled."
